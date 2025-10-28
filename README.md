@@ -46,6 +46,11 @@ Hey there 👋 I'm Hemalatha!
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Hemalatha1106&label=Profile%20views&color=0e75b6&style=flat)
+
+
+---
+
 ### 🧠 LeetCode Stats
 
 <p align="center">
