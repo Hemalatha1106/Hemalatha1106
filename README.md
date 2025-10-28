@@ -46,6 +46,14 @@ Hey there 👋 I'm Hemalatha!
 
 ---
 
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Hemalatha_Venkatesan?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
