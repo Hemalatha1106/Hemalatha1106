@@ -42,7 +42,7 @@ Hey there 👋 I'm Hemalatha!
 - 🥇 **1st Place** in Math Department Hackathon  
 - 🔥 **100 Days of Code Challenge** — Completed & posted daily on LinkedIn  
 - 💬 Appreciated by Principal for consistency & coding spirit  
-- 🧩 **550+ LeetCode problems solved** (Binary Trees in progress!)
+- 🧩 **600+ LeetCode problems solved** (Binary Trees in progress!)
 
 ---
 
