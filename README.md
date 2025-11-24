@@ -39,7 +39,8 @@ Hey there 👋 I'm Hemalatha!
 
 ### 🏆 Achievements
 
-- 🥇 **1st Place** in Math Department Hackathon  
+- 🥇 **1st Place** in Math Department Hackathon
+- 🏆 **1st Place** in the Code Arena - a pure competitive programming event.
 - 🔥 **100 Days of Code Challenge** — Completed & posted daily on LinkedIn  
 - 💬 Appreciated by Principal for consistency & coding spirit  
 - 🧩 **600+ LeetCode problems solved** (Binary Trees in progress!)
