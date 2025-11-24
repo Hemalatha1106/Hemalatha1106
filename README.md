@@ -76,7 +76,7 @@ Hey there 👋 I'm Hemalatha!
   <a href="https://linkedin.com/in/Hemalatha_Venkatesan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Hemalatha-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://leetcode.com/your-leetcode" target="_blank">
+  <a href="https://leetcode.com/Hemalatha_Venkatesan" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="https://github.com/Hemalatha1106" target="_blank">
