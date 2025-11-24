@@ -73,7 +73,7 @@ Hey there 👋 I'm Hemalatha!
 ### 💫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Hemalatha_Venkatesan" target="_blank">
+  <a href="https://linkedin.com/in/hemalatha-venkatesan1124" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Hemalatha-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/Hemalatha_Venkatesan" target="_blank">
