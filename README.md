@@ -11,10 +11,10 @@ Hey there 👋 I'm Hemalatha!
 
 - 🎓 **B.Tech IT Student** at *Easwari Engineering College, Chennai*  
 - 💡 A **self-driven learner**, exploring **Data Structures**, **Full-Stack Development**, and **Machine Learning**  
-- 🏆 **Hackathon Winner** (Math Dept.) | **100 Days of Code Finisher** | Appreciated by Principal ✨  
+- 🏆 **Hackathon Winner** (Math Dept.) | **100 Days of Code Finisher** | Appreciated by Principal ✨
+- 🥇 **2X** College Level CP competition **Winner**   
 - 💻 Solved **900+ LeetCode Problems** — consistent learner & proud problem solver  
-- 🌈 Currently learning **Backend Development (Node.js + Express)**  
-- 🚀 Will soon dive into **Machine Learning** and **TypeScript**  
+- 🌈 **Backend Development (Node.js + Express)**    
 
 ---
 
@@ -41,9 +41,10 @@ Hey there 👋 I'm Hemalatha!
 
 - 🥇 **1st Place** in Math Department Hackathon
 - 🏆 **1st Place** in the Code Arena - a pure competitive programming event.
+- 🥇 **WINNER** in Tech Valut - a Competitive Programming Event.
 - 🔥 **100 Days of Code Challenge** — Completed & posted daily on LinkedIn  
 - 💬 Appreciated by Principal for consistency & coding spirit  
-- 🧩 **800+ LeetCode problems solved** 
+- 🧩 **900+ LeetCode problems solved** 
 
 ---
 
