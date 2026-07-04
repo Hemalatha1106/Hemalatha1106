@@ -3,7 +3,7 @@ Hey there 👋 I'm Hemalatha!
 -->
 
 <h1 align="center">Hi, I'm Hemalatha 👋</h1>
-<h3 align="center"> IT Sophomore | Passionate Problem Solver | Aspiring Software Engineer</h3>
+<h3 align="center"> SRMEEC'28 | Passionate Problem Solver | Aspiring Software Engineer</h3>
 
 ---
 
