@@ -9,43 +9,74 @@ Hey there 👋 I'm Hemalatha!
 
 ### 🌟 About Me
 
-- 🎓 **B.Tech IT Student** at *Easwari Engineering College, Chennai*  
-- 💡 A **self-driven learner**, exploring **Data Structures**, **Full-Stack Development**, and **Machine Learning**  
-- 🏆 **Hackathon Winner** (Math Dept.) | **100 Days of Code Finisher** | Appreciated by Principal ✨
-- 🥇 **2X** College Level CP competition **Winner**   
-- 💻 Solved **900+ LeetCode Problems** — consistent learner & proud problem solver  
-- 🌈 **Backend Development (Node.js + Express)**    
+- 🎓 B.Tech Information Technology @ Easwari Engineering College (2024–2028)
+- 💻 Passionate about **Software Development**, **Backend Engineering**, and **AI**
+- 🧩 Solved **1000+ LeetCode Problems**
+- 🏆 Winner of multiple Competitive Programming competitions
+- 🚀 Building products that automate developer workflows
+- 🌱 Currently learning **System Design**, **LLMs**, **AWS**, and **Advanced DSA**
 
 ---
 
-### 🧠 Tech Stack
+## 💻 Tech Stack
 
-#### 💻 Programming Languages
-`Python` • `C++` • `Java` • `JavaScript`
+### 👨‍💻 Languages
 
-#### 🎨 Frontend
-`HTML` • `CSS` • `React.js` • `Tailwind CSS`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-#### ⚙️ Backend
-`Node.js` • `Express.js` • `REST APIs`
+### ⚙️ Backend Frameworks & Libraries
 
-#### 🤖 Machine Learning Tools
-`NumPy` • `Pandas` • `Scikit-learn` • `Seaborn`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![REST_API](https://img.shields.io/badge/REST-API-02569B?style=for-the-badge)
 
-#### 🧰 Others
-`Git` • `GitHub` • `VS Code` • `Postman`
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🤖 AI & Machine Learning
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge)
+![SentenceTransformers](https://img.shields.io/badge/Sentence--Transformers-FF6F00?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 🛠️ Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 **1st Place** in Math Department Hackathon
-- 🏆 **1st Place** in the Code Arena - a pure competitive programming event.
-- 🥇 **WINNER** in Tech Valut - a Competitive Programming Event.
-- 🔥 **100 Days of Code Challenge** — Completed & posted daily on LinkedIn  
-- 💬 Appreciated by Principal for consistency & coding spirit  
-- 🧩 **900+ LeetCode problems solved** 
-
+- 🥇 **1st Place** — Math Modeling Hackathon
+- 🏆 **1st Place** — Code Arena (Competitive Programming)
+- 🥇 **1st Place** — Tech Vault Competitive Programming Event
+- 🏅 **Top 100 Finalist** — *Ideas to Impact*, organized by **IIT Madras** in collaboration with **Wipro**
+- 💻 **1000+ LeetCode Problems Solved**
+- 🔥 **100 Days of Code** Challenge Completed
+- 🎯 Multiple-time Competitive Programming Winner
+- ⭐ Appreciated by the Principal for coding consistency and technical contributions.
+  
 ---
 
 <div align="center">
@@ -62,27 +93,46 @@ Hey there 👋 I'm Hemalatha!
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemalatha1106&show_icons=true&theme=radical" alt="Hemalatha's GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemalatha1106&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hemalatha1106&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemalatha1106&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Hemalatha1106&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemalatha1106&theme=tokyonight"/>
 </p>
 
 ---
 
-### 💫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/hemalatha-venkatesan1124" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hemalatha-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/Hemalatha_Venkatesan" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://github.com/Hemalatha1106" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Hemalatha1106-black?style=for-the-badge&logo=github" />
-  </a>
+
+<a href="mailto:hemavenkat1124@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/hemalatha-venkatesan1124">
+<img src="https://img.shields.io/badge/LinkedIn-Hemalatha_Venkatesan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Hemalatha1106">
+<img src="https://img.shields.io/badge/GitHub-Hemalatha1106-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Hemalatha_Venkatesan">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </p>
 
 ---
